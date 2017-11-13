@@ -1,0 +1,25 @@
+{
+  "name": "tdd-react-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drabikowy/tdd-react-workshop.git"
+  },
+  "author": "drabikowy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drabikowy/tdd-react-workshop/issues"
+  },
+  "homepage": "https://github.com/drabikowy/tdd-react-workshop#readme",
+  "devDependencies": {
+    "hyperx": "^2.3.0",
+    "jsdom": "^11.1.0",
+    "jsdom-global": "^3.0.2",
+    "tape": "^4.8.0"
+  }
+}
